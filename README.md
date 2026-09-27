@@ -3,13 +3,13 @@
 OLED wallpapers: mostly pure black (`#000000`), every shape from maths, a simulation or real data.
 51 wallpapers · PNG · 3840 × 2160 (16:9) and 2880 × 1800 (16:10).
 
-Browse and download: https://robertsalistair-jpg.github.io/blackbody-scientific-oled-wallpapers/
+Browse and download: https://robertsalistair-jpg.github.io/blackbody-oled/
 
 Files: `wallpapers/3840x2160/`, `wallpapers/2880x1800/`. Sources and data licences: [CREDITS.md](CREDITS.md).
 
 ## Licence
 
-The wallpapers are © 2026 robertsalistair-jpg, licensed [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) (see [LICENSE](LICENSE)): share them unchanged, non-commercially, with the credit “Blackbody Scientific OLED Wallpapers by robertsalistair-jpg” and a link to the licence.
+The wallpapers are © 2026 Alistair Roberts, licensed [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) (see [LICENSE](LICENSE)): share them unchanged, non-commercially, with the credit “Blackbody Scientific OLED Wallpapers by Alistair Roberts” and a link to the licence.
 
 Exceptions, because share-alike data requires it:
 

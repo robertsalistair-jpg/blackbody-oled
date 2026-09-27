@@ -1,6 +1,6 @@
 # Credits and licences
 
-The wallpapers are © 2026 robertsalistair-jpg, licensed [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) (see [LICENSE](LICENSE)): share them unchanged, non-commercially, with the credit “Blackbody Scientific OLED Wallpapers by robertsalistair-jpg” and a link to the licence.
+The wallpapers are © 2026 Alistair Roberts, licensed [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) (see [LICENSE](LICENSE)): share them unchanged, non-commercially, with the credit “Blackbody Scientific OLED Wallpapers by Alistair Roberts” and a link to the licence.
 
 Exceptions, because share-alike data requires it:
 
