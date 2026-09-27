@@ -5,6 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>Blackbody Scientific OLED Wallpapers</title>
 <meta name="description" content="OLED wallpapers. PNG, 3840 × 2160 and 2880 × 1800.">
+<meta name="author" content="Alistair Roberts">
 <style>
 /* Every surface is #000, the colour the wallpapers are made of; no near-black panels (OLED shows them
    as blotchy grey). Titles in tracked Verdana capitals, as on the wallpapers' own title blocks. */
@@ -37,6 +38,7 @@ button { font: inherit; color: inherit; background: none; border: 0; padding: 0;
 .top { display: flex; flex-wrap: wrap; align-items: baseline; justify-content: space-between; gap: 6px 24px; padding-block: 32px 0; }
 .top h1 { font-size: 13px; letter-spacing: 0.45em; color: var(--ink); }
 .top p { margin: 0; color: var(--dim); }
+.top .by { margin-top: 10px; font-size: 12px; color: var(--muted); }
 
 main { padding-bottom: 80px; }
 .theme { padding-top: 48px; }
@@ -83,7 +85,10 @@ a.busy { opacity: 0.5; pointer-events: none; }
 
 
 <header class="wrap top">
-  <h1 class="caps">Blackbody Scientific OLED Wallpapers</h1>
+  <div>
+    <h1 class="caps">Blackbody Scientific OLED Wallpapers</h1>
+    <p class="by">by Alistair Roberts · <a href="https://github.com/robertsalistair-jpg" rel="me">github.com/robertsalistair-jpg</a></p>
+  </div>
   <p class="mono" id="meta"></p>
 </header>
 
