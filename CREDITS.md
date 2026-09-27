@@ -9,6 +9,116 @@ Exceptions, because share-alike data requires it:
 
 The data and references behind each wallpaper:
 
+## Climate
+
+**La Niña 1988**
+
+- NOAA OI SST V2.1 high-resolution monthly means and 1991-2020 climatology: NOAA PSL, Boulder, Colorado, USA (from NOAA NCEI OISST v2.1; Huang et al. 2021, J. Climate 34, 2923). NOAA data, public domain (cite the dataset). <https://psl.noaa.gov/data/gridded/data.noaa.oisst.v2.highres.html>
+- Land polygons and coastline (1:10m): Made with Natural Earth. Public domain. <https://www.naturalearthdata.com/>
+
+**Storm Ciarán**
+
+- Global Forecast System (GFS) 0.25 deg analysis, 250 hPa u/v (pgrb2.0p25.anl): NOAA National Centers for Environmental Prediction (NCEP), via the NOAA Open Data Dissemination (NODD) archive on AWS. NOAA data, public domain (no restrictions). <https://registry.opendata.aws/noaa-gfs-bdp-pds/>
+- Evenly spaced streamlines: B. Jobard & W. Lefer, Visualization in Scientific Computing '97, 43-55. Reference.
+- Coastline (1:10m): Made with Natural Earth. Public domain. <https://www.naturalearthdata.com/>
+
+**40 °C Day**
+
+- Global Forecast System (GFS) 0.25 deg analysis, 250 hPa u/v (pgrb2.0p25.anl): NOAA National Centers for Environmental Prediction (NCEP), via the NOAA Open Data Dissemination (NODD) archive on AWS. NOAA data, public domain (no restrictions). <https://registry.opendata.aws/noaa-gfs-bdp-pds/>
+- Evenly spaced streamlines: B. Jobard & W. Lefer, Visualization in Scientific Computing '97, 43-55. Reference.
+- Coastline (1:10m): Made with Natural Earth. Public domain. <https://www.naturalearthdata.com/>
+
+**Hurricane Tracks**
+
+- International Best Track Archive for Climate Stewardship (IBTrACS) v04r01, all basins (netCDF): Knapp, K. R. et al. (2010), BAMS 91, 363-376; Gahtan, J. et al. (2024), NOAA NCEI, doi:10.25921/82ty-9e16. NOAA NCEI: 'These data may be redistributed and used without restriction' (public domain). <https://www.ncei.noaa.gov/products/international-best-track-archive>
+- Coastline (1:10m): Made with Natural Earth. Public domain. <https://www.naturalearthdata.com/>
+
+**Tropical Cyclones**
+
+- International Best Track Archive for Climate Stewardship (IBTrACS) v04r01, all basins (netCDF): Knapp, K. R. et al. (2010), BAMS 91, 363-376; Gahtan, J. et al. (2024), NOAA NCEI, doi:10.25921/82ty-9e16. NOAA NCEI: 'These data may be redistributed and used without restriction' (public domain). <https://www.ncei.noaa.gov/products/international-best-track-archive>
+- Coastline (1:10m): Made with Natural Earth. Public domain. <https://www.naturalearthdata.com/>
+
+**Arctic Sea Ice**
+
+- Sea Ice Index, Version 4 (G02135): monthly September concentration GeoTIFFs, 1979-2025: Fetterer, F., K. Knowles, W. N. Meier, M. Savoie, A. K. Windnagel et al., National Snow and Ice Data Center (NSIDC). NOAA@NSIDC data, free to use with citation (NSIDC data use policy). <https://nsidc.org/data/g02135>
+- Coastline and land polygons (1:10m): Made with Natural Earth. Public domain. <https://www.naturalearthdata.com/>
+
+## Maps
+
+**Pen y Fan**
+
+- OS Terrain 50 (50 m DTM, ASCII grid tiles): Contains OS data © Crown copyright and database right 2026. Open Government Licence v3.0. <https://www.ordnancesurvey.co.uk/products/os-terrain-50>
+- OS Open Names (place and hill names): Contains OS data © Crown copyright and database right 2026. Open Government Licence v3.0. <https://www.ordnancesurvey.co.uk/products/os-open-names>
+
+**Yr Wyddfa**
+
+- OS Terrain 50 (50 m DTM, ASCII grid tiles): Contains OS data © Crown copyright and database right 2026. Open Government Licence v3.0. <https://www.ordnancesurvey.co.uk/products/os-terrain-50>
+- OS Open Names (place and hill names): Contains OS data © Crown copyright and database right 2026. Open Government Licence v3.0. <https://www.ordnancesurvey.co.uk/products/os-open-names>
+
+**Mount Fuji**
+
+- Copernicus DEM GLO-30 (30 m DSM tiles): © DLR e.V. 2010-2014 and © Airbus Defence and Space GmbH 2014-2018 provided under COPERNICUS by the European Union and ESA; all rights reserved. Copernicus DEM licence (free, worldwide, attribution required). <https://registry.opendata.aws/copernicus-dem/>
+
+**Matterhorn**
+
+- Copernicus DEM GLO-30 (30 m DSM tiles): © DLR e.V. 2010-2014 and © Airbus Defence and Space GmbH 2014-2018 provided under COPERNICUS by the European Union and ESA; all rights reserved. Copernicus DEM licence (free, worldwide, attribution required). <https://registry.opendata.aws/copernicus-dem/>
+
+**Mount Everest**
+
+- Copernicus DEM GLO-30 (30 m DSM tiles): © DLR e.V. 2010-2014 and © Airbus Defence and Space GmbH 2014-2018 provided under COPERNICUS by the European Union and ESA; all rights reserved. Copernicus DEM licence (free, worldwide, attribution required). <https://registry.opendata.aws/copernicus-dem/>
+
+**Mount St Helens**
+
+- Copernicus DEM GLO-30 (30 m DSM tiles): © DLR e.V. 2010-2014 and © Airbus Defence and Space GmbH 2014-2018 provided under COPERNICUS by the European Union and ESA; all rights reserved. Copernicus DEM licence (free, worldwide, attribution required). <https://registry.opendata.aws/copernicus-dem/>
+
+**Yosemite Valley**
+
+- Copernicus DEM GLO-30 (30 m DSM tiles): © DLR e.V. 2010-2014 and © Airbus Defence and Space GmbH 2014-2018 provided under COPERNICUS by the European Union and ESA; all rights reserved. Copernicus DEM licence (free, worldwide, attribution required). <https://registry.opendata.aws/copernicus-dem/>
+
+**Crater Lake**
+
+- Copernicus DEM GLO-30 (30 m DSM tiles): © DLR e.V. 2010-2014 and © Airbus Defence and Space GmbH 2014-2018 provided under COPERNICUS by the European Union and ESA; all rights reserved. Copernicus DEM licence (free, worldwide, attribution required). <https://registry.opendata.aws/copernicus-dem/>
+
+**Table Mountain**
+
+- Copernicus DEM GLO-30 (30 m DSM tiles): © DLR e.V. 2010-2014 and © Airbus Defence and Space GmbH 2014-2018 provided under COPERNICUS by the European Union and ESA; all rights reserved. Copernicus DEM licence (free, worldwide, attribution required). <https://registry.opendata.aws/copernicus-dem/>
+
+**Black Cuillin**
+
+- Copernicus DEM GLO-30 (30 m DSM tiles): © DLR e.V. 2010-2014 and © Airbus Defence and Space GmbH 2014-2018 provided under COPERNICUS by the European Union and ESA; all rights reserved. Copernicus DEM licence (free, worldwide, attribution required). <https://registry.opendata.aws/copernicus-dem/>
+
+**Monte Rosa**
+
+- Copernicus DEM GLO-30 (30 m DSM tiles): © DLR e.V. 2010-2014 and © Airbus Defence and Space GmbH 2014-2018 provided under COPERNICUS by the European Union and ESA; all rights reserved. Copernicus DEM licence (free, worldwide, attribution required). <https://registry.opendata.aws/copernicus-dem/>
+
+## Signals
+
+**Great Quake Helicorder**
+
+- Seismic waveform and response, station SWN1 (Wroughton, Wiltshire), channel HHZ: British Geological Survey (1970): Great Britain Seismograph Network, FDSN network GB, via the BGS FDSN web service (eida.bgs.ac.uk). Open data (FDSN restrictedStatus open); cite the network DOI. <https://doi.org/10.7914/av8j-nc83>
+- Earthquake origin (2011-03-11 05:46:24.12 UTC, 38.297 N 142.373 E, 29 km, Mw 9.1): U.S. Geological Survey, ANSS Comprehensive Catalog (event usp000hvnu). US Government work (public domain). <https://earthquake.usgs.gov/earthquakes/eventpage/official20110311054624120_30>
+- Processing and travel times: ObsPy (Beyreuther et al. 2010; Krischer et al. 2015); TauP / iasp91 (Kennett & Engdahl 1991). LGPL-3.0 (software). <https://www.obspy.org>
+
+**Sumatra Record Section**
+
+- Waveforms (LHZ) and instrument responses, ~150 stations: EarthScope Consortium (IRIS DMC) FDSN web services; networks IU (Albuquerque Seismological Laboratory/USGS 1988, doi:10.7914/SN/IU), II (Scripps Institution of Oceanography 1986, doi:10.7914/SN/II), G (IPGP & EOST 1982, doi:10.18715/GEOSCOPE.G), GE (GEOFON 1993, doi:10.14470/TR560404), IC (ASL/USGS 1992, doi:10.7914/SN/IC) and national networks. Open data (FDSN restrictedStatus open); cite the network DOIs. <https://service.earthscope.org/fdsnws/>
+- Earthquake origin (2004-12-26 00:58:53.45 UTC, 3.295 N 95.982 E, 30 km, Mw 9.1): U.S. Geological Survey, ANSS Comprehensive Catalog. US Government work (public domain). <https://earthquake.usgs.gov/earthquakes/eventpage/official20041226005853450_30>
+- Processing and travel times: ObsPy; TauP / iasp91 (Kennett & Engdahl 1991). LGPL-3.0 (software). <https://www.obspy.org>
+
+**Humpback Song**
+
+- Humpback whale song, 'Meno-song-NOAA-PAGroup-13-humpback-clip': NOAA [National Oceanic and Atmospheric Administration]. Northeast Fisheries Science Center. Passive Acoustics Branch. Sounds in the Ocean: Mammals, https://www.fisheries.noaa.gov/national/science-data/sounds-ocean-mammals. US Government work (public domain); credit as NOAA requests. <https://www.fisheries.noaa.gov/s3/2023-04/Meno-song-NOAA-PAGroup-13-humpback-clip.mp3>
+- Reassigned spectrogram: K. Kodera, R. Gendrin & C. de Villedary, IEEE Trans. ASSP 26, 64 (1978); F. Auger & P. Flandrin, IEEE Trans. SP 43, 1068 (1995). Reference. <https://doi.org/10.1109/78.382394>
+
+**Humpback Song in Colour**
+
+- Humpback whale song, 'Meno-song-NOAA-PAGroup-13-humpback-clip': NOAA [National Oceanic and Atmospheric Administration]. Northeast Fisheries Science Center. Passive Acoustics Branch. Sounds in the Ocean: Mammals, https://www.fisheries.noaa.gov/national/science-data/sounds-ocean-mammals. US Government work (public domain); credit as NOAA requests. <https://www.fisheries.noaa.gov/s3/2023-04/Meno-song-NOAA-PAGroup-13-humpback-clip.mp3>
+- Reassigned spectrogram: K. Kodera, R. Gendrin & C. de Villedary, IEEE Trans. ASSP 26, 64 (1978); F. Auger & P. Flandrin, IEEE Trans. SP 43, 1068 (1995). Reference. <https://doi.org/10.1109/78.382394>
+
+**Lissajous 3:2**
+
+- Lissajous figures: J. A. Lissajous, Annales de chimie et de physique 51, 147 (1857). Reference.
+
 ## Patterns
 
 **Seigaiha**
@@ -145,116 +255,6 @@ The data and references behind each wallpaper:
 - Night lights (Black Marble 2016, 3 km colour map, lights above level 55 only): NASA Earth Observatory image by Joshua Stevens, using Suomi NPP VIIRS data from Miguel Román, NASA's Goddard Space Flight Center. NASA, public domain. <https://science.nasa.gov/earth/earth-observatory/earth-at-night/maps/>
 - Coastline (1:10m): Made with Natural Earth. Public domain. <https://www.naturalearthdata.com/>
 
-## Climate
-
-**La Niña 1988**
-
-- NOAA OI SST V2.1 high-resolution monthly means and 1991-2020 climatology: NOAA PSL, Boulder, Colorado, USA (from NOAA NCEI OISST v2.1; Huang et al. 2021, J. Climate 34, 2923). NOAA data, public domain (cite the dataset). <https://psl.noaa.gov/data/gridded/data.noaa.oisst.v2.highres.html>
-- Land polygons and coastline (1:10m): Made with Natural Earth. Public domain. <https://www.naturalearthdata.com/>
-
-**Storm Ciarán**
-
-- Global Forecast System (GFS) 0.25 deg analysis, 250 hPa u/v (pgrb2.0p25.anl): NOAA National Centers for Environmental Prediction (NCEP), via the NOAA Open Data Dissemination (NODD) archive on AWS. NOAA data, public domain (no restrictions). <https://registry.opendata.aws/noaa-gfs-bdp-pds/>
-- Evenly spaced streamlines: B. Jobard & W. Lefer, Visualization in Scientific Computing '97, 43-55. Reference.
-- Coastline (1:10m): Made with Natural Earth. Public domain. <https://www.naturalearthdata.com/>
-
-**40 °C Day**
-
-- Global Forecast System (GFS) 0.25 deg analysis, 250 hPa u/v (pgrb2.0p25.anl): NOAA National Centers for Environmental Prediction (NCEP), via the NOAA Open Data Dissemination (NODD) archive on AWS. NOAA data, public domain (no restrictions). <https://registry.opendata.aws/noaa-gfs-bdp-pds/>
-- Evenly spaced streamlines: B. Jobard & W. Lefer, Visualization in Scientific Computing '97, 43-55. Reference.
-- Coastline (1:10m): Made with Natural Earth. Public domain. <https://www.naturalearthdata.com/>
-
-**Hurricane Tracks**
-
-- International Best Track Archive for Climate Stewardship (IBTrACS) v04r01, all basins (netCDF): Knapp, K. R. et al. (2010), BAMS 91, 363-376; Gahtan, J. et al. (2024), NOAA NCEI, doi:10.25921/82ty-9e16. NOAA NCEI: 'These data may be redistributed and used without restriction' (public domain). <https://www.ncei.noaa.gov/products/international-best-track-archive>
-- Coastline (1:10m): Made with Natural Earth. Public domain. <https://www.naturalearthdata.com/>
-
-**Tropical Cyclones**
-
-- International Best Track Archive for Climate Stewardship (IBTrACS) v04r01, all basins (netCDF): Knapp, K. R. et al. (2010), BAMS 91, 363-376; Gahtan, J. et al. (2024), NOAA NCEI, doi:10.25921/82ty-9e16. NOAA NCEI: 'These data may be redistributed and used without restriction' (public domain). <https://www.ncei.noaa.gov/products/international-best-track-archive>
-- Coastline (1:10m): Made with Natural Earth. Public domain. <https://www.naturalearthdata.com/>
-
-**Arctic Sea Ice**
-
-- Sea Ice Index, Version 4 (G02135): monthly September concentration GeoTIFFs, 1979-2025: Fetterer, F., K. Knowles, W. N. Meier, M. Savoie, A. K. Windnagel et al., National Snow and Ice Data Center (NSIDC). NOAA@NSIDC data, free to use with citation (NSIDC data use policy). <https://nsidc.org/data/g02135>
-- Coastline and land polygons (1:10m): Made with Natural Earth. Public domain. <https://www.naturalearthdata.com/>
-
-## Maps
-
-**Pen y Fan**
-
-- OS Terrain 50 (50 m DTM, ASCII grid tiles): Contains OS data © Crown copyright and database right 2026. Open Government Licence v3.0. <https://www.ordnancesurvey.co.uk/products/os-terrain-50>
-- OS Open Names (place and hill names): Contains OS data © Crown copyright and database right 2026. Open Government Licence v3.0. <https://www.ordnancesurvey.co.uk/products/os-open-names>
-
-**Yr Wyddfa**
-
-- OS Terrain 50 (50 m DTM, ASCII grid tiles): Contains OS data © Crown copyright and database right 2026. Open Government Licence v3.0. <https://www.ordnancesurvey.co.uk/products/os-terrain-50>
-- OS Open Names (place and hill names): Contains OS data © Crown copyright and database right 2026. Open Government Licence v3.0. <https://www.ordnancesurvey.co.uk/products/os-open-names>
-
-**Mount Fuji**
-
-- Copernicus DEM GLO-30 (30 m DSM tiles): © DLR e.V. 2010-2014 and © Airbus Defence and Space GmbH 2014-2018 provided under COPERNICUS by the European Union and ESA; all rights reserved. Copernicus DEM licence (free, worldwide, attribution required). <https://registry.opendata.aws/copernicus-dem/>
-
-**Matterhorn**
-
-- Copernicus DEM GLO-30 (30 m DSM tiles): © DLR e.V. 2010-2014 and © Airbus Defence and Space GmbH 2014-2018 provided under COPERNICUS by the European Union and ESA; all rights reserved. Copernicus DEM licence (free, worldwide, attribution required). <https://registry.opendata.aws/copernicus-dem/>
-
-**Mount Everest**
-
-- Copernicus DEM GLO-30 (30 m DSM tiles): © DLR e.V. 2010-2014 and © Airbus Defence and Space GmbH 2014-2018 provided under COPERNICUS by the European Union and ESA; all rights reserved. Copernicus DEM licence (free, worldwide, attribution required). <https://registry.opendata.aws/copernicus-dem/>
-
-**Mount St Helens**
-
-- Copernicus DEM GLO-30 (30 m DSM tiles): © DLR e.V. 2010-2014 and © Airbus Defence and Space GmbH 2014-2018 provided under COPERNICUS by the European Union and ESA; all rights reserved. Copernicus DEM licence (free, worldwide, attribution required). <https://registry.opendata.aws/copernicus-dem/>
-
-**Yosemite Valley**
-
-- Copernicus DEM GLO-30 (30 m DSM tiles): © DLR e.V. 2010-2014 and © Airbus Defence and Space GmbH 2014-2018 provided under COPERNICUS by the European Union and ESA; all rights reserved. Copernicus DEM licence (free, worldwide, attribution required). <https://registry.opendata.aws/copernicus-dem/>
-
-**Crater Lake**
-
-- Copernicus DEM GLO-30 (30 m DSM tiles): © DLR e.V. 2010-2014 and © Airbus Defence and Space GmbH 2014-2018 provided under COPERNICUS by the European Union and ESA; all rights reserved. Copernicus DEM licence (free, worldwide, attribution required). <https://registry.opendata.aws/copernicus-dem/>
-
-**Table Mountain**
-
-- Copernicus DEM GLO-30 (30 m DSM tiles): © DLR e.V. 2010-2014 and © Airbus Defence and Space GmbH 2014-2018 provided under COPERNICUS by the European Union and ESA; all rights reserved. Copernicus DEM licence (free, worldwide, attribution required). <https://registry.opendata.aws/copernicus-dem/>
-
-**Black Cuillin**
-
-- Copernicus DEM GLO-30 (30 m DSM tiles): © DLR e.V. 2010-2014 and © Airbus Defence and Space GmbH 2014-2018 provided under COPERNICUS by the European Union and ESA; all rights reserved. Copernicus DEM licence (free, worldwide, attribution required). <https://registry.opendata.aws/copernicus-dem/>
-
-**Monte Rosa**
-
-- Copernicus DEM GLO-30 (30 m DSM tiles): © DLR e.V. 2010-2014 and © Airbus Defence and Space GmbH 2014-2018 provided under COPERNICUS by the European Union and ESA; all rights reserved. Copernicus DEM licence (free, worldwide, attribution required). <https://registry.opendata.aws/copernicus-dem/>
-
-## Signals
-
-**Great Quake Helicorder**
-
-- Seismic waveform and response, station SWN1 (Wroughton, Wiltshire), channel HHZ: British Geological Survey (1970): Great Britain Seismograph Network, FDSN network GB, via the BGS FDSN web service (eida.bgs.ac.uk). Open data (FDSN restrictedStatus open); cite the network DOI. <https://doi.org/10.7914/av8j-nc83>
-- Earthquake origin (2011-03-11 05:46:24.12 UTC, 38.297 N 142.373 E, 29 km, Mw 9.1): U.S. Geological Survey, ANSS Comprehensive Catalog (event usp000hvnu). US Government work (public domain). <https://earthquake.usgs.gov/earthquakes/eventpage/official20110311054624120_30>
-- Processing and travel times: ObsPy (Beyreuther et al. 2010; Krischer et al. 2015); TauP / iasp91 (Kennett & Engdahl 1991). LGPL-3.0 (software). <https://www.obspy.org>
-
-**Sumatra Record Section**
-
-- Waveforms (LHZ) and instrument responses, ~150 stations: EarthScope Consortium (IRIS DMC) FDSN web services; networks IU (Albuquerque Seismological Laboratory/USGS 1988, doi:10.7914/SN/IU), II (Scripps Institution of Oceanography 1986, doi:10.7914/SN/II), G (IPGP & EOST 1982, doi:10.18715/GEOSCOPE.G), GE (GEOFON 1993, doi:10.14470/TR560404), IC (ASL/USGS 1992, doi:10.7914/SN/IC) and national networks. Open data (FDSN restrictedStatus open); cite the network DOIs. <https://service.earthscope.org/fdsnws/>
-- Earthquake origin (2004-12-26 00:58:53.45 UTC, 3.295 N 95.982 E, 30 km, Mw 9.1): U.S. Geological Survey, ANSS Comprehensive Catalog. US Government work (public domain). <https://earthquake.usgs.gov/earthquakes/eventpage/official20041226005853450_30>
-- Processing and travel times: ObsPy; TauP / iasp91 (Kennett & Engdahl 1991). LGPL-3.0 (software). <https://www.obspy.org>
-
-**Humpback Song**
-
-- Humpback whale song, 'Meno-song-NOAA-PAGroup-13-humpback-clip': NOAA [National Oceanic and Atmospheric Administration]. Northeast Fisheries Science Center. Passive Acoustics Branch. Sounds in the Ocean: Mammals, https://www.fisheries.noaa.gov/national/science-data/sounds-ocean-mammals. US Government work (public domain); credit as NOAA requests. <https://www.fisheries.noaa.gov/s3/2023-04/Meno-song-NOAA-PAGroup-13-humpback-clip.mp3>
-- Reassigned spectrogram: K. Kodera, R. Gendrin & C. de Villedary, IEEE Trans. ASSP 26, 64 (1978); F. Auger & P. Flandrin, IEEE Trans. SP 43, 1068 (1995). Reference. <https://doi.org/10.1109/78.382394>
-
-**Humpback Song in Colour**
-
-- Humpback whale song, 'Meno-song-NOAA-PAGroup-13-humpback-clip': NOAA [National Oceanic and Atmospheric Administration]. Northeast Fisheries Science Center. Passive Acoustics Branch. Sounds in the Ocean: Mammals, https://www.fisheries.noaa.gov/national/science-data/sounds-ocean-mammals. US Government work (public domain); credit as NOAA requests. <https://www.fisheries.noaa.gov/s3/2023-04/Meno-song-NOAA-PAGroup-13-humpback-clip.mp3>
-- Reassigned spectrogram: K. Kodera, R. Gendrin & C. de Villedary, IEEE Trans. ASSP 26, 64 (1978); F. Auger & P. Flandrin, IEEE Trans. SP 43, 1068 (1995). Reference. <https://doi.org/10.1109/78.382394>
-
-**Lissajous 3:2**
-
-- Lissajous figures: J. A. Lissajous, Annales de chimie et de physique 51, 147 (1857). Reference.
-
 ## Cosmic
 
 **GW150914**
@@ -276,3 +276,139 @@ The data and references behind each wallpaper:
 **GRB 221009A · THE BOAT**
 
 - Fermi GBM trigger data bn221009553 (CTIME, NaI detectors 3, 4, 6, 7, 8): NASA HEASARC, Fermi Gamma-ray Burst Monitor team. Public domain (NASA). <https://heasarc.gsfc.nasa.gov/FTP/fermi/data/gbm/triggers/2022/bn221009553/current/>
+
+## Heat Maps
+
+**Reading, 100 Times**
+
+- GazeBase eye-movement data (Round 1, session 1: reading and random-saccade tasks, 100 subjects): Griffith H, Lohr D, Abdulin E, Komogortsev O (2021) GazeBase, a large-scale, multi-stimulus, longitudinal eye movement dataset. Scientific Data 8:184; figshare doi:10.6084/m9.figshare.12912257. CC BY 4.0. <https://doi.org/10.6084/m9.figshare.12912257>
+
+**Return Sweeps**
+
+- GazeBase eye-movement data (Round 1, session 1: reading and random-saccade tasks, 100 subjects): Griffith H, Lohr D, Abdulin E, Komogortsev O (2021) GazeBase, a large-scale, multi-stimulus, longitudinal eye movement dataset. Scientific Data 8:184; figshare doi:10.6084/m9.figshare.12912257. CC BY 4.0. <https://doi.org/10.6084/m9.figshare.12912257>
+
+**Knight's Web**
+
+- Lichess open database: all rated standard games, January-June 2013 (6 monthly PGN files): lichess.org open database (database.lichess.org). CC0 1.0 (public domain dedication). <https://database.lichess.org/>
+- python-chess (SAN parsing and move replay): Niklas Fiekas, python-chess 1.11. GPL-3.0 (tool only; nothing of it is in the image). <https://python-chess.readthedocs.io/>
+
+**Twelve Hours**
+
+- GP element sets (OMM), Starlink and GPS operational groups, 27 September 2026: CelesTrak (Dr T.S. Kelso), from US Space Force / 18th Space Defense Squadron data. Public data; credit CelesTrak. <https://celestrak.org/NORAD/elements/>
+- SGP4 orbit propagator (Python sgp4 package, Brandon Rhodes; Vallado et al. 2006 revision): sgp4 2.27. MIT. <https://pypi.org/project/sgp4/>
+
+## Circulation
+
+**Drifters**
+
+- Global Drifter Program 6-hour interpolated QC drifter positions (drifter_6hour_qc), 1979-2025: Lumpkin, R.; Centurioni, L. (2019). Global Drifter Program quality-controlled 6-hour interpolated data from ocean surface drifting buoys. NOAA National Centers for Environmental Information, doi:10.25921/7ntx-z961. This study used data collected and made freely available by the NOAA Global Drifter Program (https://www.aoml.noaa.gov/phod/gdp/), accessed from https://erddap.aoml.noaa.gov/gdp/erddap/. CC BY 4.0 (dataset licence as stated by the AOML ERDDAP). <https://erddap.aoml.noaa.gov/gdp/erddap/tabledap/drifter_6hour_qc.html>
+- Coastline and land (1:10m): Made with Natural Earth. Public domain. <https://www.naturalearthdata.com/>
+
+**Drifters, 5,000**
+
+- Global Drifter Program 6-hour interpolated QC drifter positions (drifter_6hour_qc), 1979-2025: Lumpkin, R.; Centurioni, L. (2019). Global Drifter Program quality-controlled 6-hour interpolated data from ocean surface drifting buoys. NOAA National Centers for Environmental Information, doi:10.25921/7ntx-z961. This study used data collected and made freely available by the NOAA Global Drifter Program (https://www.aoml.noaa.gov/phod/gdp/), accessed from https://erddap.aoml.noaa.gov/gdp/erddap/. CC BY 4.0 (dataset licence as stated by the AOML ERDDAP). <https://erddap.aoml.noaa.gov/gdp/erddap/tabledap/drifter_6hour_qc.html>
+- Coastline and land (1:10m): Made with Natural Earth. Public domain. <https://www.naturalearthdata.com/>
+
+**Ten Years Adrift**
+
+- Global Drifter Program 6-hour interpolated QC drifter positions (drifter_6hour_qc), 1979-2025: Lumpkin, R.; Centurioni, L. (2019). Global Drifter Program quality-controlled 6-hour interpolated data from ocean surface drifting buoys. NOAA National Centers for Environmental Information, doi:10.25921/7ntx-z961. This study used data collected and made freely available by the NOAA Global Drifter Program (https://www.aoml.noaa.gov/phod/gdp/), accessed from https://erddap.aoml.noaa.gov/gdp/erddap/. CC BY 4.0 (dataset licence as stated by the AOML ERDDAP). <https://erddap.aoml.noaa.gov/gdp/erddap/tabledap/drifter_6hour_qc.html>
+- Coastline and land (1:10m): Made with Natural Earth. Public domain. <https://www.naturalearthdata.com/>
+
+**Agulhas Retroflection**
+
+- HYCOM + NCODA Global 1/12 deg analysis GLBy0.08 expt_93.0, surface water_u / water_v: HYCOM consortium (hycom.org): Naval Research Laboratory, Florida State University, NOAA and partners; U.S. Navy operational ocean analysis (GOFS 3.1). U.S. Navy / HYCOM Consortium: DoD Distribution A, approved for public release, distribution unlimited. <https://tds.hycom.org/thredds/dodsC/GLBy0.08/expt_93.0/uv3z>
+- Evenly spaced streamlines: B. Jobard & W. Lefer, Visualization in Scientific Computing '97, 43-55. Reference.
+- Coastline (1:10m): Made with Natural Earth. Public domain. <https://www.naturalearthdata.com/>
+
+**Gulf Stream**
+
+- HYCOM + NCODA Global 1/12 deg analysis GLBy0.08 expt_93.0, surface water_u / water_v: HYCOM consortium (hycom.org): Naval Research Laboratory, Florida State University, NOAA and partners; U.S. Navy operational ocean analysis (GOFS 3.1). U.S. Navy / HYCOM Consortium: DoD Distribution A, approved for public release, distribution unlimited. <https://tds.hycom.org/thredds/dodsC/GLBy0.08/expt_93.0/uv3z>
+- Evenly spaced streamlines: B. Jobard & W. Lefer, Visualization in Scientific Computing '97, 43-55. Reference.
+- Coastline (1:10m): Made with Natural Earth. Public domain. <https://www.naturalearthdata.com/>
+
+**Kuroshio**
+
+- HYCOM + NCODA Global 1/12 deg analysis GLBy0.08 expt_93.0, surface water_u / water_v: HYCOM consortium (hycom.org): Naval Research Laboratory, Florida State University, NOAA and partners; U.S. Navy operational ocean analysis (GOFS 3.1). U.S. Navy / HYCOM Consortium: DoD Distribution A, approved for public release, distribution unlimited. <https://tds.hycom.org/thredds/dodsC/GLBy0.08/expt_93.0/uv3z>
+- Evenly spaced streamlines: B. Jobard & W. Lefer, Visualization in Scientific Computing '97, 43-55. Reference.
+- Coastline (1:10m): Made with Natural Earth. Public domain. <https://www.naturalearthdata.com/>
+
+**Retina**
+
+- FIVES: Fundus Image dataset for AI-based Vessel Segmentation, manual vessel annotation masks (2048 x 2048): K. Jin, X. Huang, J. Zhou, Y. Li, Y. Yan, Y. Sun, Q. Zhang, Y. Wang & J. Ye, 'FIVES: A Fundus Image Dataset for Artificial Intelligence based Vessel Segmentation', Scientific Data 9, 475 (2022); figshare doi:10.6084/m9.figshare.19688169. CC BY 4.0. <https://doi.org/10.6084/m9.figshare.19688169>
+
+**Circle of Willis**
+
+- BraVa brain arterial reconstructions (SWC, colour-coded trees): http://cng.gmu.edu/brava; S. N. Wright, P. Kochunov, F. Mut, M. Bergamino, K. M. Brown, J. C. Mazziotta, A. W. Toga, J. R. Cebral & G. A. Ascoli, 'Digital reconstruction and morphometric analysis of human brain arterial vasculature from magnetic resonance angiography', NeuroImage 82, 170-181 (2013). Free to use with citation of the site and Wright et al. 2013 (BraVa terms of use). <http://cng.gmu.edu/brava>
+
+**Cleared Leaf**
+
+- Cleared-leaf vein segmentations (LeafVeinCNN outputs) and leaf masks: I. Matos, B. Vu, J. Mann et al. (28 authors, incl. B. J. Enquist, M. Fricker & B. Blonder), 'Macroevolutionary trends in leaf venation network architecture', Zenodo, doi:10.5281/zenodo.13300782 (2024); leaves from the University of California Museum of Paleontology cleared leaf collection (incl. the Daniel I. Axelrod collection); segmentation: H. Xu et al., 'Automated and accurate segmentation of leaf venation networks via deep learning', New Phytologist 229, 2440-2452 (2021). CC BY 4.0. <https://zenodo.org/records/13300782>
+
+**Amazon**
+
+- HydroRIVERS v1.0, South America (river reaches with long-term average discharge DIS_AV_CMS): Lehner, B., Grill G. (2013). Global river hydrography and network routing: baseline data and new approaches to study the world's large river systems. Hydrological Processes, 27(15): 2171-2186. Data available at www.hydrosheds.org. HydroSHEDS License Agreement: free for non-commercial and commercial use, attribution required (doi:10.1002/hyp.9740). <https://www.hydrosheds.org/products/hydrorivers>
+
+**Rayleigh–Bénard Plumes**
+
+- Convection in a layer heated from below: Lord Rayleigh, Phil. Mag. 32, 529 (1916); H. Bénard, Rev. Gén. Sci. 11, 1261 (1900). Reference.
+
+**Rayleigh–Bénard Isotherms**
+
+- Convection in a layer heated from below: Lord Rayleigh, Phil. Mag. 32, 529 (1916); H. Bénard, Rev. Gén. Sci. 11, 1261 (1900). Reference.
+
+## Solar Traces
+
+**Solargraph, Greenwich**
+
+- Solar position algorithm (NREL SPA, Reda & Andreas 2004), via pvlib-python: I. Reda & A. Andreas, NREL/TP-560-34302; pvlib-python (Anderson et al. 2023). Algorithm published by NREL; pvlib BSD-3-Clause. <https://pvlib-python.readthedocs.io/>
+- Hourly shortwave and direct normal irradiance (ERA5 / ERA5-Land reanalysis): Open-Meteo.com historical weather API (Zippenfenig 2023, doi:10.5281/zenodo.7970649); contains modified Copernicus Climate Change Service information (ERA5, Hersbach et al. 2020). CC BY 4.0. <https://open-meteo.com/en/docs/historical-weather-api>
+
+**Solargraph, Tromsø**
+
+- Solar position algorithm (NREL SPA, Reda & Andreas 2004), via pvlib-python: I. Reda & A. Andreas, NREL/TP-560-34302; pvlib-python (Anderson et al. 2023). Algorithm published by NREL; pvlib BSD-3-Clause. <https://pvlib-python.readthedocs.io/>
+- Hourly shortwave and direct normal irradiance (ERA5 / ERA5-Land reanalysis): Open-Meteo.com historical weather API (Zippenfenig 2023, doi:10.5281/zenodo.7970649); contains modified Copernicus Climate Change Service information (ERA5, Hersbach et al. 2020). CC BY 4.0. <https://open-meteo.com/en/docs/historical-weather-api>
+- Copernicus DEM GLO-90 (90 m DSM tiles), for horizon profiles: © DLR e.V. 2010-2014 and © Airbus Defence and Space GmbH 2014-2018 provided under COPERNICUS by the European Union and ESA; all rights reserved. Copernicus DEM licence (free, worldwide, attribution required). <https://registry.opendata.aws/copernicus-dem/>
+
+**Solargraph, Quito**
+
+- Solar position algorithm (NREL SPA, Reda & Andreas 2004), via pvlib-python: I. Reda & A. Andreas, NREL/TP-560-34302; pvlib-python (Anderson et al. 2023). Algorithm published by NREL; pvlib BSD-3-Clause. <https://pvlib-python.readthedocs.io/>
+- Hourly shortwave and direct normal irradiance (ERA5 / ERA5-Land reanalysis): Open-Meteo.com historical weather API (Zippenfenig 2023, doi:10.5281/zenodo.7970649); contains modified Copernicus Climate Change Service information (ERA5, Hersbach et al. 2020). CC BY 4.0. <https://open-meteo.com/en/docs/historical-weather-api>
+- Copernicus DEM GLO-90 (90 m DSM tiles), for horizon profiles: © DLR e.V. 2010-2014 and © Airbus Defence and Space GmbH 2014-2018 provided under COPERNICUS by the European Union and ESA; all rights reserved. Copernicus DEM licence (free, worldwide, attribution required). <https://registry.opendata.aws/copernicus-dem/>
+
+**Butterfly**
+
+- Unified RGO/SOON/NOAA sunspot-group dataset, 1874-2025 (daily group records): D. Hathaway, L. Upton & B. K. Jha (2025), A Unified Sunspot Group Dataset (RGO/SOON/NOAA) from 1874 to Present, Zenodo, doi:10.5281/zenodo.17108109. CC BY 4.0. <https://doi.org/10.5281/zenodo.17108109>
+
+**Butterfly, Thirteen Cycles**
+
+- Unified RGO/SOON/NOAA sunspot-group dataset, 1874-2025 (daily group records): D. Hathaway, L. Upton & B. K. Jha (2025), A Unified Sunspot Group Dataset (RGO/SOON/NOAA) from 1874 to Present, Zenodo, doi:10.5281/zenodo.17108109. CC BY 4.0. <https://doi.org/10.5281/zenodo.17108109>
+
+**Corona, Drawn**
+
+- GONG zero-point-corrected synoptic magnetogram (mrzqs), photospheric radial field: This work utilizes GONG data obtained by the NSO Integrated Synoptic Program, managed by the National Solar Observatory, operated by AURA under a cooperative agreement with the NSF, and with contribution from NOAA. The GONG network is operated by NSO with sites at Big Bear, High Altitude Observatory, Learmonth, Udaipur, Observatorio del Teide and Cerro Tololo. Open data, acknowledgement requested (NSO data policy). <https://gong.nso.edu/data/magmap/>
+
+## Waves & Ripples
+
+**Kelvin Wake**
+
+- Pure geometry: no outside data.
+
+**Kelvin Wake, Turning**
+
+- Pure geometry: no outside data.
+
+**Rain on a Pond**
+
+- Pure geometry: no outside data.
+
+**Kelvin–Helmholtz Billows**
+
+- Instability of a vortex sheet: H. von Helmholtz (1868); W. Thomson, Lord Kelvin (1871). Reference.
+- Vortex pairing in mixing layers: C. D. Winant & F. K. Browand, J. Fluid Mech. 63, 237 (1974). Reference. <https://doi.org/10.1017/S0022112074001121>
+- Most unstable mode of the tanh shear layer: A. Michalke, J. Fluid Mech. 19, 543 (1964). Reference. <https://doi.org/10.1017/S0022112064000908>
+
+**Kelvin–Helmholtz Pairing**
+
+- Instability of a vortex sheet: H. von Helmholtz (1868); W. Thomson, Lord Kelvin (1871). Reference.
+- Vortex pairing in mixing layers: C. D. Winant & F. K. Browand, J. Fluid Mech. 63, 237 (1974). Reference. <https://doi.org/10.1017/S0022112074001121>
+- Most unstable mode of the tanh shear layer: A. Michalke, J. Fluid Mech. 19, 543 (1964). Reference. <https://doi.org/10.1017/S0022112064000908>

@@ -1,7 +1,7 @@
 # Blackbody Scientific OLED Wallpapers
 
 OLED wallpapers: mostly pure black (`#000000`), every shape from maths, a simulation or real data.
-51 wallpapers · PNG · 3840 × 2160 (16:9) and 2880 × 1800 (16:10).
+78 wallpapers · PNG · 3840 × 2160 (16:9) and 2880 × 1800 (16:10).
 
 Browse and download: https://robertsalistair-jpg.github.io/blackbody-oled/
 
