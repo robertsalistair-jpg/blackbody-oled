@@ -9,7 +9,7 @@ Exceptions, because share-alike data requires it:
 
 The data and references behind each wallpaper:
 
-## Climate
+## Geography
 
 **La Niña 1988**
 
@@ -42,6 +42,36 @@ The data and references behind each wallpaper:
 
 - Sea Ice Index, Version 4 (G02135): monthly September concentration GeoTIFFs, 1979-2025: Fetterer, F., K. Knowles, W. N. Meier, M. Savoie, A. K. Windnagel et al., National Snow and Ice Data Center (NSIDC). NOAA@NSIDC data, free to use with citation (NSIDC data use policy). <https://nsidc.org/data/g02135>
 - Coastline and land polygons (1:10m): Made with Natural Earth. Public domain. <https://www.naturalearthdata.com/>
+
+**Blue Whales**
+
+- Blue whale Argos tracks (Blue whales Eastern North Pacific 1993-2008): Mate BR, Palacios DM, Irvine LM, Bailey H, Follett TM (2019) Data from: Behavioural estimation of blue whale movements in the Northeast Pacific from state-space model analysis of satellite tracks. Movebank Data Repository, doi:10.5441/001/1.5ph88fk2; Bailey et al. (2009) Endang. Species Res. 10:93-106. CC0 1.0. <https://doi.org/10.5441/001/1.5ph88fk2>
+- Night lights (Black Marble 2016, 3 km colour map, lights above level 55 only): NASA Earth Observatory image by Joshua Stevens, using Suomi NPP VIIRS data from Miguel Román, NASA's Goddard Space Flight Center. NASA, public domain. <https://science.nasa.gov/earth/earth-observatory/earth-at-night/maps/>
+- Coastline (1:10m): Made with Natural Earth. Public domain. <https://www.naturalearthdata.com/>
+
+**Hudsonian Godwit**
+
+- Hudsonian godwit GPS and Argos tracks: Linscott JA, Navedo JG, Clements SJ, Loghry JP, Ruiz J, Ballard BM, Weegman MD, Senner NR (2023) Data from: Compensation for wind drift prevails for a shorebird on a long-distance, transoceanic flight. Movebank Data Repository, doi:10.5441/001/1.t81488n5; Linscott et al. (2022) Mov. Ecol. 10:11. CC0 1.0. <https://doi.org/10.5441/001/1.t81488n5>
+- Night lights (Black Marble 2016, 3 km colour map, lights above level 55 only): NASA Earth Observatory image by Joshua Stevens, using Suomi NPP VIIRS data from Miguel Román, NASA's Goddard Space Flight Center. NASA, public domain. <https://science.nasa.gov/earth/earth-observatory/earth-at-night/maps/>
+- Coastline (1:10m): Made with Natural Earth. Public domain. <https://www.naturalearthdata.com/>
+
+**White Storks**
+
+- White stork Argos and GPS tracks (MPIAB Argos white stork tracking 1991-2017): Berthold P, Kaatz C, Kaatz M, Querner U, van den Bossche W, Chernetsov N, Fiedler W, Wikelski M (2022) Data from: Study "MPIAB Argos white stork tracking (1991-2017)". Movebank Data Repository, doi:10.5441/001/1.k29d81dh. CC0 1.0. <https://doi.org/10.5441/001/1.k29d81dh>
+- Night lights (Black Marble 2016, 3 km colour map, lights above level 55 only): NASA Earth Observatory image by Joshua Stevens, using Suomi NPP VIIRS data from Miguel Román, NASA's Goddard Space Flight Center. NASA, public domain. <https://science.nasa.gov/earth/earth-observatory/earth-at-night/maps/>
+- Coastline (1:10m): Made with Natural Earth. Public domain. <https://www.naturalearthdata.com/>
+
+**Green Turtles**
+
+- Green turtle Fastloc-GPS tracks (Chagos Archipelago): Hays GC, Esteban N, Rattray A (2024) Data from: Study "Green turtles (Chelonia mydas); Hays; Chagos Archipelago, Western Indian Ocean". Movebank Data Repository, doi:10.5441/001/1.313; Hays et al. (2020) Curr. Biol. 30:3236-3242. CC0 1.0. <https://doi.org/10.5441/001/1.313>
+- Night lights (Black Marble 2016, 3 km colour map, lights above level 55 only): NASA Earth Observatory image by Joshua Stevens, using Suomi NPP VIIRS data from Miguel Román, NASA's Goddard Space Flight Center. NASA, public domain. <https://science.nasa.gov/earth/earth-observatory/earth-at-night/maps/>
+- Coastline (1:10m): Made with Natural Earth. Public domain. <https://www.naturalearthdata.com/>
+
+**Arctic Terns**
+
+- Arctic tern geolocator positions (Tracking of Arctic tern migrations 2007-2008): Egevang C (2012) Tracking of Arctic tern migrations 2007-2008. Greenland Institute of Natural Resources, via OBIS-SEAMAP (doi:10.82144/f1e7b55e) and GBIF; Egevang C, Stenhouse IJ, Phillips RA, Petersen A, Fox JW, Silk JRD (2010) PNAS 107:2078-2081. CC BY-NC 4.0 (non-commercial use only). <https://doi.org/10.82144/f1e7b55e>
+- Night lights (Black Marble 2016, 3 km colour map, lights above level 55 only): NASA Earth Observatory image by Joshua Stevens, using Suomi NPP VIIRS data from Miguel Román, NASA's Goddard Space Flight Center. NASA, public domain. <https://science.nasa.gov/earth/earth-observatory/earth-at-night/maps/>
+- Coastline (1:10m): Made with Natural Earth. Public domain. <https://www.naturalearthdata.com/>
 
 **Drifters**
 
@@ -207,6 +237,18 @@ The data and references behind each wallpaper:
 - Vortex pairing in mixing layers: C. D. Winant & F. K. Browand, J. Fluid Mech. 63, 237 (1974). Reference. <https://doi.org/10.1017/S0022112074001121>
 - Most unstable mode of the tanh shear layer: A. Michalke, J. Fluid Mech. 19, 543 (1964). Reference. <https://doi.org/10.1017/S0022112064000908>
 
+**Kelvin Wake**
+
+- Pure geometry: no outside data.
+
+**Kelvin Wake, Turning**
+
+- Pure geometry: no outside data.
+
+**Rain on a Pond**
+
+- Pure geometry: no outside data.
+
 **Butterfly**
 
 - Unified RGO/SOON/NOAA sunspot-group dataset, 1874-2025 (daily group records): D. Hathaway, L. Upton & B. K. Jha (2025), A Unified Sunspot Group Dataset (RGO/SOON/NOAA) from 1874 to Present, Zenodo, doi:10.5281/zenodo.17108109. CC BY 4.0. <https://doi.org/10.5281/zenodo.17108109>
@@ -214,6 +256,27 @@ The data and references behind each wallpaper:
 **Butterfly, Thirteen Cycles**
 
 - Unified RGO/SOON/NOAA sunspot-group dataset, 1874-2025 (daily group records): D. Hathaway, L. Upton & B. K. Jha (2025), A Unified Sunspot Group Dataset (RGO/SOON/NOAA) from 1874 to Present, Zenodo, doi:10.5281/zenodo.17108109. CC BY 4.0. <https://doi.org/10.5281/zenodo.17108109>
+
+**Solargraph, Greenwich**
+
+- Solar position algorithm (NREL SPA, Reda & Andreas 2004), via pvlib-python: I. Reda & A. Andreas, NREL/TP-560-34302; pvlib-python (Anderson et al. 2023). Algorithm published by NREL; pvlib BSD-3-Clause. <https://pvlib-python.readthedocs.io/>
+- Hourly shortwave and direct normal irradiance (ERA5 / ERA5-Land reanalysis): Open-Meteo.com historical weather API (Zippenfenig 2023, doi:10.5281/zenodo.7970649); contains modified Copernicus Climate Change Service information (ERA5, Hersbach et al. 2020). CC BY 4.0. <https://open-meteo.com/en/docs/historical-weather-api>
+
+**Solargraph, Tromsø**
+
+- Solar position algorithm (NREL SPA, Reda & Andreas 2004), via pvlib-python: I. Reda & A. Andreas, NREL/TP-560-34302; pvlib-python (Anderson et al. 2023). Algorithm published by NREL; pvlib BSD-3-Clause. <https://pvlib-python.readthedocs.io/>
+- Hourly shortwave and direct normal irradiance (ERA5 / ERA5-Land reanalysis): Open-Meteo.com historical weather API (Zippenfenig 2023, doi:10.5281/zenodo.7970649); contains modified Copernicus Climate Change Service information (ERA5, Hersbach et al. 2020). CC BY 4.0. <https://open-meteo.com/en/docs/historical-weather-api>
+- Copernicus DEM GLO-90 (90 m DSM tiles), for horizon profiles: © DLR e.V. 2010-2014 and © Airbus Defence and Space GmbH 2014-2018 provided under COPERNICUS by the European Union and ESA; all rights reserved. Copernicus DEM licence (free, worldwide, attribution required). <https://registry.opendata.aws/copernicus-dem/>
+
+**Solargraph, Quito**
+
+- Solar position algorithm (NREL SPA, Reda & Andreas 2004), via pvlib-python: I. Reda & A. Andreas, NREL/TP-560-34302; pvlib-python (Anderson et al. 2023). Algorithm published by NREL; pvlib BSD-3-Clause. <https://pvlib-python.readthedocs.io/>
+- Hourly shortwave and direct normal irradiance (ERA5 / ERA5-Land reanalysis): Open-Meteo.com historical weather API (Zippenfenig 2023, doi:10.5281/zenodo.7970649); contains modified Copernicus Climate Change Service information (ERA5, Hersbach et al. 2020). CC BY 4.0. <https://open-meteo.com/en/docs/historical-weather-api>
+- Copernicus DEM GLO-90 (90 m DSM tiles), for horizon profiles: © DLR e.V. 2010-2014 and © Airbus Defence and Space GmbH 2014-2018 provided under COPERNICUS by the European Union and ESA; all rights reserved. Copernicus DEM licence (free, worldwide, attribution required). <https://registry.opendata.aws/copernicus-dem/>
+
+**Corona, Drawn**
+
+- GONG zero-point-corrected synoptic magnetogram (mrzqs), photospheric radial field: This work utilizes GONG data obtained by the NSO Integrated Synoptic Program, managed by the National Solar Observatory, operated by AURA under a cooperative agreement with the NSF, and with contribution from NOAA. The GONG network is operated by NSO with sites at Big Bear, High Altitude Observatory, Learmonth, Udaipur, Observatorio del Teide and Cerro Tololo. Open data, acknowledgement requested (NSO data policy). <https://gong.nso.edu/data/magmap/>
 
 ## Maths
 
@@ -284,38 +347,6 @@ The data and references behind each wallpaper:
 - MNIST database of handwritten digits: Y. LeCun, C. Cortes & C. J. C. Burges (1998); files from the Google CVDF mirror (storage.googleapis.com/cvdf-datasets/mnist). CC BY-SA 3.0. <https://yann.lecun.com/exdb/mnist/>
 - Back-propagation: D. E. Rumelhart, G. E. Hinton & R. J. Williams, Nature 323:533-536 (1986). Reference. <https://doi.org/10.1038/323533a0>
 
-## Migrations
-
-**Blue Whales**
-
-- Blue whale Argos tracks (Blue whales Eastern North Pacific 1993-2008): Mate BR, Palacios DM, Irvine LM, Bailey H, Follett TM (2019) Data from: Behavioural estimation of blue whale movements in the Northeast Pacific from state-space model analysis of satellite tracks. Movebank Data Repository, doi:10.5441/001/1.5ph88fk2; Bailey et al. (2009) Endang. Species Res. 10:93-106. CC0 1.0. <https://doi.org/10.5441/001/1.5ph88fk2>
-- Night lights (Black Marble 2016, 3 km colour map, lights above level 55 only): NASA Earth Observatory image by Joshua Stevens, using Suomi NPP VIIRS data from Miguel Román, NASA's Goddard Space Flight Center. NASA, public domain. <https://science.nasa.gov/earth/earth-observatory/earth-at-night/maps/>
-- Coastline (1:10m): Made with Natural Earth. Public domain. <https://www.naturalearthdata.com/>
-
-**Hudsonian Godwit**
-
-- Hudsonian godwit GPS and Argos tracks: Linscott JA, Navedo JG, Clements SJ, Loghry JP, Ruiz J, Ballard BM, Weegman MD, Senner NR (2023) Data from: Compensation for wind drift prevails for a shorebird on a long-distance, transoceanic flight. Movebank Data Repository, doi:10.5441/001/1.t81488n5; Linscott et al. (2022) Mov. Ecol. 10:11. CC0 1.0. <https://doi.org/10.5441/001/1.t81488n5>
-- Night lights (Black Marble 2016, 3 km colour map, lights above level 55 only): NASA Earth Observatory image by Joshua Stevens, using Suomi NPP VIIRS data from Miguel Román, NASA's Goddard Space Flight Center. NASA, public domain. <https://science.nasa.gov/earth/earth-observatory/earth-at-night/maps/>
-- Coastline (1:10m): Made with Natural Earth. Public domain. <https://www.naturalearthdata.com/>
-
-**White Storks**
-
-- White stork Argos and GPS tracks (MPIAB Argos white stork tracking 1991-2017): Berthold P, Kaatz C, Kaatz M, Querner U, van den Bossche W, Chernetsov N, Fiedler W, Wikelski M (2022) Data from: Study "MPIAB Argos white stork tracking (1991-2017)". Movebank Data Repository, doi:10.5441/001/1.k29d81dh. CC0 1.0. <https://doi.org/10.5441/001/1.k29d81dh>
-- Night lights (Black Marble 2016, 3 km colour map, lights above level 55 only): NASA Earth Observatory image by Joshua Stevens, using Suomi NPP VIIRS data from Miguel Román, NASA's Goddard Space Flight Center. NASA, public domain. <https://science.nasa.gov/earth/earth-observatory/earth-at-night/maps/>
-- Coastline (1:10m): Made with Natural Earth. Public domain. <https://www.naturalearthdata.com/>
-
-**Green Turtles**
-
-- Green turtle Fastloc-GPS tracks (Chagos Archipelago): Hays GC, Esteban N, Rattray A (2024) Data from: Study "Green turtles (Chelonia mydas); Hays; Chagos Archipelago, Western Indian Ocean". Movebank Data Repository, doi:10.5441/001/1.313; Hays et al. (2020) Curr. Biol. 30:3236-3242. CC0 1.0. <https://doi.org/10.5441/001/1.313>
-- Night lights (Black Marble 2016, 3 km colour map, lights above level 55 only): NASA Earth Observatory image by Joshua Stevens, using Suomi NPP VIIRS data from Miguel Román, NASA's Goddard Space Flight Center. NASA, public domain. <https://science.nasa.gov/earth/earth-observatory/earth-at-night/maps/>
-- Coastline (1:10m): Made with Natural Earth. Public domain. <https://www.naturalearthdata.com/>
-
-**Arctic Terns**
-
-- Arctic tern geolocator positions (Tracking of Arctic tern migrations 2007-2008): Egevang C (2012) Tracking of Arctic tern migrations 2007-2008. Greenland Institute of Natural Resources, via OBIS-SEAMAP (doi:10.82144/f1e7b55e) and GBIF; Egevang C, Stenhouse IJ, Phillips RA, Petersen A, Fox JW, Silk JRD (2010) PNAS 107:2078-2081. CC BY-NC 4.0 (non-commercial use only). <https://doi.org/10.82144/f1e7b55e>
-- Night lights (Black Marble 2016, 3 km colour map, lights above level 55 only): NASA Earth Observatory image by Joshua Stevens, using Suomi NPP VIIRS data from Miguel Román, NASA's Goddard Space Flight Center. NASA, public domain. <https://science.nasa.gov/earth/earth-observatory/earth-at-night/maps/>
-- Coastline (1:10m): Made with Natural Earth. Public domain. <https://www.naturalearthdata.com/>
-
 ## Cosmic
 
 **GW150914**
@@ -375,40 +406,3 @@ The data and references behind each wallpaper:
 **Amazon**
 
 - HydroRIVERS v1.0, South America (river reaches with long-term average discharge DIS_AV_CMS): Lehner, B., Grill G. (2013). Global river hydrography and network routing: baseline data and new approaches to study the world's large river systems. Hydrological Processes, 27(15): 2171-2186. Data available at www.hydrosheds.org. HydroSHEDS License Agreement: free for non-commercial and commercial use, attribution required (doi:10.1002/hyp.9740). <https://www.hydrosheds.org/products/hydrorivers>
-
-## Solar Traces
-
-**Solargraph, Greenwich**
-
-- Solar position algorithm (NREL SPA, Reda & Andreas 2004), via pvlib-python: I. Reda & A. Andreas, NREL/TP-560-34302; pvlib-python (Anderson et al. 2023). Algorithm published by NREL; pvlib BSD-3-Clause. <https://pvlib-python.readthedocs.io/>
-- Hourly shortwave and direct normal irradiance (ERA5 / ERA5-Land reanalysis): Open-Meteo.com historical weather API (Zippenfenig 2023, doi:10.5281/zenodo.7970649); contains modified Copernicus Climate Change Service information (ERA5, Hersbach et al. 2020). CC BY 4.0. <https://open-meteo.com/en/docs/historical-weather-api>
-
-**Solargraph, Tromsø**
-
-- Solar position algorithm (NREL SPA, Reda & Andreas 2004), via pvlib-python: I. Reda & A. Andreas, NREL/TP-560-34302; pvlib-python (Anderson et al. 2023). Algorithm published by NREL; pvlib BSD-3-Clause. <https://pvlib-python.readthedocs.io/>
-- Hourly shortwave and direct normal irradiance (ERA5 / ERA5-Land reanalysis): Open-Meteo.com historical weather API (Zippenfenig 2023, doi:10.5281/zenodo.7970649); contains modified Copernicus Climate Change Service information (ERA5, Hersbach et al. 2020). CC BY 4.0. <https://open-meteo.com/en/docs/historical-weather-api>
-- Copernicus DEM GLO-90 (90 m DSM tiles), for horizon profiles: © DLR e.V. 2010-2014 and © Airbus Defence and Space GmbH 2014-2018 provided under COPERNICUS by the European Union and ESA; all rights reserved. Copernicus DEM licence (free, worldwide, attribution required). <https://registry.opendata.aws/copernicus-dem/>
-
-**Solargraph, Quito**
-
-- Solar position algorithm (NREL SPA, Reda & Andreas 2004), via pvlib-python: I. Reda & A. Andreas, NREL/TP-560-34302; pvlib-python (Anderson et al. 2023). Algorithm published by NREL; pvlib BSD-3-Clause. <https://pvlib-python.readthedocs.io/>
-- Hourly shortwave and direct normal irradiance (ERA5 / ERA5-Land reanalysis): Open-Meteo.com historical weather API (Zippenfenig 2023, doi:10.5281/zenodo.7970649); contains modified Copernicus Climate Change Service information (ERA5, Hersbach et al. 2020). CC BY 4.0. <https://open-meteo.com/en/docs/historical-weather-api>
-- Copernicus DEM GLO-90 (90 m DSM tiles), for horizon profiles: © DLR e.V. 2010-2014 and © Airbus Defence and Space GmbH 2014-2018 provided under COPERNICUS by the European Union and ESA; all rights reserved. Copernicus DEM licence (free, worldwide, attribution required). <https://registry.opendata.aws/copernicus-dem/>
-
-**Corona, Drawn**
-
-- GONG zero-point-corrected synoptic magnetogram (mrzqs), photospheric radial field: This work utilizes GONG data obtained by the NSO Integrated Synoptic Program, managed by the National Solar Observatory, operated by AURA under a cooperative agreement with the NSF, and with contribution from NOAA. The GONG network is operated by NSO with sites at Big Bear, High Altitude Observatory, Learmonth, Udaipur, Observatorio del Teide and Cerro Tololo. Open data, acknowledgement requested (NSO data policy). <https://gong.nso.edu/data/magmap/>
-
-## Waves & Ripples
-
-**Kelvin Wake**
-
-- Pure geometry: no outside data.
-
-**Kelvin Wake, Turning**
-
-- Pure geometry: no outside data.
-
-**Rain on a Pond**
-
-- Pure geometry: no outside data.
