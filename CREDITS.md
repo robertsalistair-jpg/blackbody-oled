@@ -43,6 +43,39 @@ The data and references behind each wallpaper:
 - Sea Ice Index, Version 4 (G02135): monthly September concentration GeoTIFFs, 1979-2025: Fetterer, F., K. Knowles, W. N. Meier, M. Savoie, A. K. Windnagel et al., National Snow and Ice Data Center (NSIDC). NOAA@NSIDC data, free to use with citation (NSIDC data use policy). <https://nsidc.org/data/g02135>
 - Coastline and land polygons (1:10m): Made with Natural Earth. Public domain. <https://www.naturalearthdata.com/>
 
+**Drifters**
+
+- Global Drifter Program 6-hour interpolated QC drifter positions (drifter_6hour_qc), 1979-2025: Lumpkin, R.; Centurioni, L. (2019). Global Drifter Program quality-controlled 6-hour interpolated data from ocean surface drifting buoys. NOAA National Centers for Environmental Information, doi:10.25921/7ntx-z961. This study used data collected and made freely available by the NOAA Global Drifter Program (https://www.aoml.noaa.gov/phod/gdp/), accessed from https://erddap.aoml.noaa.gov/gdp/erddap/. CC BY 4.0 (dataset licence as stated by the AOML ERDDAP). <https://erddap.aoml.noaa.gov/gdp/erddap/tabledap/drifter_6hour_qc.html>
+- Coastline and land (1:10m): Made with Natural Earth. Public domain. <https://www.naturalearthdata.com/>
+
+**Drifters, 5,000**
+
+- Global Drifter Program 6-hour interpolated QC drifter positions (drifter_6hour_qc), 1979-2025: Lumpkin, R.; Centurioni, L. (2019). Global Drifter Program quality-controlled 6-hour interpolated data from ocean surface drifting buoys. NOAA National Centers for Environmental Information, doi:10.25921/7ntx-z961. This study used data collected and made freely available by the NOAA Global Drifter Program (https://www.aoml.noaa.gov/phod/gdp/), accessed from https://erddap.aoml.noaa.gov/gdp/erddap/. CC BY 4.0 (dataset licence as stated by the AOML ERDDAP). <https://erddap.aoml.noaa.gov/gdp/erddap/tabledap/drifter_6hour_qc.html>
+- Coastline and land (1:10m): Made with Natural Earth. Public domain. <https://www.naturalearthdata.com/>
+
+**Ten Years Adrift**
+
+- Global Drifter Program 6-hour interpolated QC drifter positions (drifter_6hour_qc), 1979-2025: Lumpkin, R.; Centurioni, L. (2019). Global Drifter Program quality-controlled 6-hour interpolated data from ocean surface drifting buoys. NOAA National Centers for Environmental Information, doi:10.25921/7ntx-z961. This study used data collected and made freely available by the NOAA Global Drifter Program (https://www.aoml.noaa.gov/phod/gdp/), accessed from https://erddap.aoml.noaa.gov/gdp/erddap/. CC BY 4.0 (dataset licence as stated by the AOML ERDDAP). <https://erddap.aoml.noaa.gov/gdp/erddap/tabledap/drifter_6hour_qc.html>
+- Coastline and land (1:10m): Made with Natural Earth. Public domain. <https://www.naturalearthdata.com/>
+
+**Gulf Stream**
+
+- HYCOM + NCODA Global 1/12 deg analysis GLBy0.08 expt_93.0, surface water_u / water_v: HYCOM consortium (hycom.org): Naval Research Laboratory, Florida State University, NOAA and partners; U.S. Navy operational ocean analysis (GOFS 3.1). U.S. Navy / HYCOM Consortium: DoD Distribution A, approved for public release, distribution unlimited. <https://tds.hycom.org/thredds/dodsC/GLBy0.08/expt_93.0/uv3z>
+- Evenly spaced streamlines: B. Jobard & W. Lefer, Visualization in Scientific Computing '97, 43-55. Reference.
+- Coastline (1:10m): Made with Natural Earth. Public domain. <https://www.naturalearthdata.com/>
+
+**Kuroshio**
+
+- HYCOM + NCODA Global 1/12 deg analysis GLBy0.08 expt_93.0, surface water_u / water_v: HYCOM consortium (hycom.org): Naval Research Laboratory, Florida State University, NOAA and partners; U.S. Navy operational ocean analysis (GOFS 3.1). U.S. Navy / HYCOM Consortium: DoD Distribution A, approved for public release, distribution unlimited. <https://tds.hycom.org/thredds/dodsC/GLBy0.08/expt_93.0/uv3z>
+- Evenly spaced streamlines: B. Jobard & W. Lefer, Visualization in Scientific Computing '97, 43-55. Reference.
+- Coastline (1:10m): Made with Natural Earth. Public domain. <https://www.naturalearthdata.com/>
+
+**Agulhas Retroflection**
+
+- HYCOM + NCODA Global 1/12 deg analysis GLBy0.08 expt_93.0, surface water_u / water_v: HYCOM consortium (hycom.org): Naval Research Laboratory, Florida State University, NOAA and partners; U.S. Navy operational ocean analysis (GOFS 3.1). U.S. Navy / HYCOM Consortium: DoD Distribution A, approved for public release, distribution unlimited. <https://tds.hycom.org/thredds/dodsC/GLBy0.08/expt_93.0/uv3z>
+- Evenly spaced streamlines: B. Jobard & W. Lefer, Visualization in Scientific Computing '97, 43-55. Reference.
+- Coastline (1:10m): Made with Natural Earth. Public domain. <https://www.naturalearthdata.com/>
+
 ## Maps
 
 **Pen y Fan**
@@ -153,6 +186,34 @@ The data and references behind each wallpaper:
 
 - Passage of particles through matter (Bethe-Bloch, Highland, delta rays): Particle Data Group, Review of Particle Physics (2024). Reference. <https://pdg.lbl.gov>
 - N-body phase-space generator: F. James, CERN 68-15 (GENBOD). Reference.
+
+**Rayleigh–Bénard Plumes**
+
+- Convection in a layer heated from below: Lord Rayleigh, Phil. Mag. 32, 529 (1916); H. Bénard, Rev. Gén. Sci. 11, 1261 (1900). Reference.
+
+**Rayleigh–Bénard Isotherms**
+
+- Convection in a layer heated from below: Lord Rayleigh, Phil. Mag. 32, 529 (1916); H. Bénard, Rev. Gén. Sci. 11, 1261 (1900). Reference.
+
+**Kelvin–Helmholtz Billows**
+
+- Instability of a vortex sheet: H. von Helmholtz (1868); W. Thomson, Lord Kelvin (1871). Reference.
+- Vortex pairing in mixing layers: C. D. Winant & F. K. Browand, J. Fluid Mech. 63, 237 (1974). Reference. <https://doi.org/10.1017/S0022112074001121>
+- Most unstable mode of the tanh shear layer: A. Michalke, J. Fluid Mech. 19, 543 (1964). Reference. <https://doi.org/10.1017/S0022112064000908>
+
+**Kelvin–Helmholtz Pairing**
+
+- Instability of a vortex sheet: H. von Helmholtz (1868); W. Thomson, Lord Kelvin (1871). Reference.
+- Vortex pairing in mixing layers: C. D. Winant & F. K. Browand, J. Fluid Mech. 63, 237 (1974). Reference. <https://doi.org/10.1017/S0022112074001121>
+- Most unstable mode of the tanh shear layer: A. Michalke, J. Fluid Mech. 19, 543 (1964). Reference. <https://doi.org/10.1017/S0022112064000908>
+
+**Butterfly**
+
+- Unified RGO/SOON/NOAA sunspot-group dataset, 1874-2025 (daily group records): D. Hathaway, L. Upton & B. K. Jha (2025), A Unified Sunspot Group Dataset (RGO/SOON/NOAA) from 1874 to Present, Zenodo, doi:10.5281/zenodo.17108109. CC BY 4.0. <https://doi.org/10.5281/zenodo.17108109>
+
+**Butterfly, Thirteen Cycles**
+
+- Unified RGO/SOON/NOAA sunspot-group dataset, 1874-2025 (daily group records): D. Hathaway, L. Upton & B. K. Jha (2025), A Unified Sunspot Group Dataset (RGO/SOON/NOAA) from 1874 to Present, Zenodo, doi:10.5281/zenodo.17108109. CC BY 4.0. <https://doi.org/10.5281/zenodo.17108109>
 
 ## Maths
 
@@ -299,39 +360,6 @@ The data and references behind each wallpaper:
 
 ## Circulation
 
-**Drifters**
-
-- Global Drifter Program 6-hour interpolated QC drifter positions (drifter_6hour_qc), 1979-2025: Lumpkin, R.; Centurioni, L. (2019). Global Drifter Program quality-controlled 6-hour interpolated data from ocean surface drifting buoys. NOAA National Centers for Environmental Information, doi:10.25921/7ntx-z961. This study used data collected and made freely available by the NOAA Global Drifter Program (https://www.aoml.noaa.gov/phod/gdp/), accessed from https://erddap.aoml.noaa.gov/gdp/erddap/. CC BY 4.0 (dataset licence as stated by the AOML ERDDAP). <https://erddap.aoml.noaa.gov/gdp/erddap/tabledap/drifter_6hour_qc.html>
-- Coastline and land (1:10m): Made with Natural Earth. Public domain. <https://www.naturalearthdata.com/>
-
-**Drifters, 5,000**
-
-- Global Drifter Program 6-hour interpolated QC drifter positions (drifter_6hour_qc), 1979-2025: Lumpkin, R.; Centurioni, L. (2019). Global Drifter Program quality-controlled 6-hour interpolated data from ocean surface drifting buoys. NOAA National Centers for Environmental Information, doi:10.25921/7ntx-z961. This study used data collected and made freely available by the NOAA Global Drifter Program (https://www.aoml.noaa.gov/phod/gdp/), accessed from https://erddap.aoml.noaa.gov/gdp/erddap/. CC BY 4.0 (dataset licence as stated by the AOML ERDDAP). <https://erddap.aoml.noaa.gov/gdp/erddap/tabledap/drifter_6hour_qc.html>
-- Coastline and land (1:10m): Made with Natural Earth. Public domain. <https://www.naturalearthdata.com/>
-
-**Ten Years Adrift**
-
-- Global Drifter Program 6-hour interpolated QC drifter positions (drifter_6hour_qc), 1979-2025: Lumpkin, R.; Centurioni, L. (2019). Global Drifter Program quality-controlled 6-hour interpolated data from ocean surface drifting buoys. NOAA National Centers for Environmental Information, doi:10.25921/7ntx-z961. This study used data collected and made freely available by the NOAA Global Drifter Program (https://www.aoml.noaa.gov/phod/gdp/), accessed from https://erddap.aoml.noaa.gov/gdp/erddap/. CC BY 4.0 (dataset licence as stated by the AOML ERDDAP). <https://erddap.aoml.noaa.gov/gdp/erddap/tabledap/drifter_6hour_qc.html>
-- Coastline and land (1:10m): Made with Natural Earth. Public domain. <https://www.naturalearthdata.com/>
-
-**Agulhas Retroflection**
-
-- HYCOM + NCODA Global 1/12 deg analysis GLBy0.08 expt_93.0, surface water_u / water_v: HYCOM consortium (hycom.org): Naval Research Laboratory, Florida State University, NOAA and partners; U.S. Navy operational ocean analysis (GOFS 3.1). U.S. Navy / HYCOM Consortium: DoD Distribution A, approved for public release, distribution unlimited. <https://tds.hycom.org/thredds/dodsC/GLBy0.08/expt_93.0/uv3z>
-- Evenly spaced streamlines: B. Jobard & W. Lefer, Visualization in Scientific Computing '97, 43-55. Reference.
-- Coastline (1:10m): Made with Natural Earth. Public domain. <https://www.naturalearthdata.com/>
-
-**Gulf Stream**
-
-- HYCOM + NCODA Global 1/12 deg analysis GLBy0.08 expt_93.0, surface water_u / water_v: HYCOM consortium (hycom.org): Naval Research Laboratory, Florida State University, NOAA and partners; U.S. Navy operational ocean analysis (GOFS 3.1). U.S. Navy / HYCOM Consortium: DoD Distribution A, approved for public release, distribution unlimited. <https://tds.hycom.org/thredds/dodsC/GLBy0.08/expt_93.0/uv3z>
-- Evenly spaced streamlines: B. Jobard & W. Lefer, Visualization in Scientific Computing '97, 43-55. Reference.
-- Coastline (1:10m): Made with Natural Earth. Public domain. <https://www.naturalearthdata.com/>
-
-**Kuroshio**
-
-- HYCOM + NCODA Global 1/12 deg analysis GLBy0.08 expt_93.0, surface water_u / water_v: HYCOM consortium (hycom.org): Naval Research Laboratory, Florida State University, NOAA and partners; U.S. Navy operational ocean analysis (GOFS 3.1). U.S. Navy / HYCOM Consortium: DoD Distribution A, approved for public release, distribution unlimited. <https://tds.hycom.org/thredds/dodsC/GLBy0.08/expt_93.0/uv3z>
-- Evenly spaced streamlines: B. Jobard & W. Lefer, Visualization in Scientific Computing '97, 43-55. Reference.
-- Coastline (1:10m): Made with Natural Earth. Public domain. <https://www.naturalearthdata.com/>
-
 **Retina**
 
 - FIVES: Fundus Image dataset for AI-based Vessel Segmentation, manual vessel annotation masks (2048 x 2048): K. Jin, X. Huang, J. Zhou, Y. Li, Y. Yan, Y. Sun, Q. Zhang, Y. Wang & J. Ye, 'FIVES: A Fundus Image Dataset for Artificial Intelligence based Vessel Segmentation', Scientific Data 9, 475 (2022); figshare doi:10.6084/m9.figshare.19688169. CC BY 4.0. <https://doi.org/10.6084/m9.figshare.19688169>
@@ -347,14 +375,6 @@ The data and references behind each wallpaper:
 **Amazon**
 
 - HydroRIVERS v1.0, South America (river reaches with long-term average discharge DIS_AV_CMS): Lehner, B., Grill G. (2013). Global river hydrography and network routing: baseline data and new approaches to study the world's large river systems. Hydrological Processes, 27(15): 2171-2186. Data available at www.hydrosheds.org. HydroSHEDS License Agreement: free for non-commercial and commercial use, attribution required (doi:10.1002/hyp.9740). <https://www.hydrosheds.org/products/hydrorivers>
-
-**Rayleigh–Bénard Plumes**
-
-- Convection in a layer heated from below: Lord Rayleigh, Phil. Mag. 32, 529 (1916); H. Bénard, Rev. Gén. Sci. 11, 1261 (1900). Reference.
-
-**Rayleigh–Bénard Isotherms**
-
-- Convection in a layer heated from below: Lord Rayleigh, Phil. Mag. 32, 529 (1916); H. Bénard, Rev. Gén. Sci. 11, 1261 (1900). Reference.
 
 ## Solar Traces
 
@@ -375,14 +395,6 @@ The data and references behind each wallpaper:
 - Hourly shortwave and direct normal irradiance (ERA5 / ERA5-Land reanalysis): Open-Meteo.com historical weather API (Zippenfenig 2023, doi:10.5281/zenodo.7970649); contains modified Copernicus Climate Change Service information (ERA5, Hersbach et al. 2020). CC BY 4.0. <https://open-meteo.com/en/docs/historical-weather-api>
 - Copernicus DEM GLO-90 (90 m DSM tiles), for horizon profiles: © DLR e.V. 2010-2014 and © Airbus Defence and Space GmbH 2014-2018 provided under COPERNICUS by the European Union and ESA; all rights reserved. Copernicus DEM licence (free, worldwide, attribution required). <https://registry.opendata.aws/copernicus-dem/>
 
-**Butterfly**
-
-- Unified RGO/SOON/NOAA sunspot-group dataset, 1874-2025 (daily group records): D. Hathaway, L. Upton & B. K. Jha (2025), A Unified Sunspot Group Dataset (RGO/SOON/NOAA) from 1874 to Present, Zenodo, doi:10.5281/zenodo.17108109. CC BY 4.0. <https://doi.org/10.5281/zenodo.17108109>
-
-**Butterfly, Thirteen Cycles**
-
-- Unified RGO/SOON/NOAA sunspot-group dataset, 1874-2025 (daily group records): D. Hathaway, L. Upton & B. K. Jha (2025), A Unified Sunspot Group Dataset (RGO/SOON/NOAA) from 1874 to Present, Zenodo, doi:10.5281/zenodo.17108109. CC BY 4.0. <https://doi.org/10.5281/zenodo.17108109>
-
 **Corona, Drawn**
 
 - GONG zero-point-corrected synoptic magnetogram (mrzqs), photospheric radial field: This work utilizes GONG data obtained by the NSO Integrated Synoptic Program, managed by the National Solar Observatory, operated by AURA under a cooperative agreement with the NSF, and with contribution from NOAA. The GONG network is operated by NSO with sites at Big Bear, High Altitude Observatory, Learmonth, Udaipur, Observatorio del Teide and Cerro Tololo. Open data, acknowledgement requested (NSO data policy). <https://gong.nso.edu/data/magmap/>
@@ -400,15 +412,3 @@ The data and references behind each wallpaper:
 **Rain on a Pond**
 
 - Pure geometry: no outside data.
-
-**Kelvin–Helmholtz Billows**
-
-- Instability of a vortex sheet: H. von Helmholtz (1868); W. Thomson, Lord Kelvin (1871). Reference.
-- Vortex pairing in mixing layers: C. D. Winant & F. K. Browand, J. Fluid Mech. 63, 237 (1974). Reference. <https://doi.org/10.1017/S0022112074001121>
-- Most unstable mode of the tanh shear layer: A. Michalke, J. Fluid Mech. 19, 543 (1964). Reference. <https://doi.org/10.1017/S0022112064000908>
-
-**Kelvin–Helmholtz Pairing**
-
-- Instability of a vortex sheet: H. von Helmholtz (1868); W. Thomson, Lord Kelvin (1871). Reference.
-- Vortex pairing in mixing layers: C. D. Winant & F. K. Browand, J. Fluid Mech. 63, 237 (1974). Reference. <https://doi.org/10.1017/S0022112074001121>
-- Most unstable mode of the tanh shear layer: A. Michalke, J. Fluid Mech. 19, 543 (1964). Reference. <https://doi.org/10.1017/S0022112064000908>
