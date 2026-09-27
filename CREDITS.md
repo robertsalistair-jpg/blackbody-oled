@@ -1,10 +1,13 @@
 # Credits and licences
 
-The data and references behind each wallpaper. Licence terms that apply to an image itself:
+The wallpapers are © 2026 robertsalistair-jpg, licensed [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) (see [LICENSE](LICENSE)): share them unchanged, non-commercially, with the credit “Pixels Off by robertsalistair-jpg” and a link to the licence.
 
-- **Kerr Black Hole** includes data licensed CC BY-SA 4.0, so this image is shared under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
-- **Trained Network** includes data licensed CC BY-SA 3.0, so this image is shared under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).
-- **Arctic Terns** includes data licensed CC BY-NC 4.0: non-commercial use only.
+Exceptions, because share-alike data requires it:
+
+- **Kerr Black Hole**: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), as its background stars come from the HYG database (CC BY-SA 4.0).
+- **Trained Network**: [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/), as it draws MNIST handwritten digits (CC BY-SA 3.0).
+
+The data and references behind each wallpaper:
 
 ## Patterns
 
