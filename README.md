@@ -5,7 +5,7 @@ OLED wallpapers: mostly pure black (`#000000`), every shape from maths, a simula
 
 Browse and download: https://robertsalistair-jpg.github.io/blackbody-oled/
 
-Files: `wallpapers/3840x2160/`, `wallpapers/2880x1800/`. Sources and data licences: [CREDITS.md](CREDITS.md).
+Files: every PNG is attached to the release [wallpapers](https://github.com/robertsalistair-jpg/blackbody-oled/releases/tag/wallpapers) (`<id>_3840x2160.png`, `<id>_2880x1800.png`). Sources and data licences: [CREDITS.md](CREDITS.md).
 
 ## Licence
 
