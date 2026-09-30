@@ -406,3 +406,147 @@ The data and references behind each wallpaper:
 **Amazon**
 
 - HydroRIVERS v1.0, South America (river reaches with long-term average discharge DIS_AV_CMS): Lehner, B., Grill G. (2013). Global river hydrography and network routing: baseline data and new approaches to study the world's large river systems. Hydrological Processes, 27(15): 2171-2186. Data available at www.hydrosheds.org. HydroSHEDS License Agreement: free for non-commercial and commercial use, attribution required (doi:10.1002/hyp.9740). <https://www.hydrosheds.org/products/hydrorivers>
+
+## Infrastructure
+
+**Fifty Hertz**
+
+- System frequency, 1 s resolution, Great Britain, January-December 2019: Supported by National Energy SO Open Data (NESO Data Portal, 'System Frequency'). NESO Open Data Licence. <https://www.neso.energy/data-portal/system-frequency-data>
+
+**Ninth of August**
+
+- System frequency, 1 s resolution, Great Britain, January-December 2019: Supported by National Energy SO Open Data (NESO Data Portal, 'System Frequency'). NESO Open Data Licence. <https://www.neso.energy/data-portal/system-frequency-data>
+
+**Clarke Ring**
+
+- GP element sets (OMM): active payloads, Fengyun-1C / Cosmos 2251 / Iridium 33 / Cosmos 1408 debris and analyst objects, 30 September 2026: CelesTrak (Dr T.S. Kelso), from US Space Force / 18th Space Defense Squadron data. Public data; credit CelesTrak. <https://celestrak.org/NORAD/elements/>
+- SGP4/SDP4 orbit propagator (Python sgp4 package, Brandon Rhodes; Vallado et al. 2006): sgp4 2.27. MIT. <https://pypi.org/project/sgp4/>
+
+**Four Hundred Kilovolts**
+
+- European transmission network (lines >= 220 kV, HVDC links, substations) from OpenStreetMap: © OpenStreetMap contributors; prebuilt by the PyPSA-Eur team, Zenodo record 18619025 v0.7. ODbL 1.0 (Open Data Commons Open Database License). <https://zenodo.org/records/18619025>
+
+## Gravity & Magnetism
+
+**Gravity Potato**
+
+- XGM2019e_2159 combined gravity field model (spherical harmonics to degree 2190): Zingerle, P., Pail, R., Gruber, T., Oikonomidou, X. (2019): The experimental gravity field model XGM2019e. GFZ Data Services, doi:10.5880/ICGEM.2019.007 (via ICGEM). CC BY 4.0. <https://doi.org/10.5880/ICGEM.2019.007>
+
+**Lunar Potato**
+
+- GRGM1200A lunar gravity field (GRAIL), degrees 0-400: NASA GSFC / GRAIL (Lemoine et al. 2014), PDS Geosciences Node. NASA data, public domain. <https://pds-geosciences.wustl.edu/grail/grail-l-lgrs-5-rdr-v1/grail_1001/shadr/gggrx_1200a_sha.tab>
+
+**Weighed from Orbit**
+
+- XGM2019e_2159 combined gravity field model (spherical harmonics to degree 2190): Zingerle, P., Pail, R., Gruber, T., Oikonomidou, X. (2019): The experimental gravity field model XGM2019e. GFZ Data Services, doi:10.5880/ICGEM.2019.007 (via ICGEM). CC BY 4.0. <https://doi.org/10.5880/ICGEM.2019.007>
+- Land polygons and coastline (1:10m): Made with Natural Earth. Public domain. <https://www.naturalearthdata.com/>
+
+**Emperor Seamounts**
+
+- XGM2019e_2159 combined gravity field model (spherical harmonics to degree 2190): Zingerle, P., Pail, R., Gruber, T., Oikonomidou, X. (2019): The experimental gravity field model XGM2019e. GFZ Data Services, doi:10.5880/ICGEM.2019.007 (via ICGEM). CC BY 4.0. <https://doi.org/10.5880/ICGEM.2019.007>
+- Land polygons and coastline (1:10m): Made with Natural Earth. Public domain. <https://www.naturalearthdata.com/>
+
+**Reykjanes Zebra**
+
+- EMAG2v3 Earth Magnetic Anomaly Grid (2 arc-minute, sea level), regional subsets: Meyer, B., Saltus, R., Chulliat, A. (2017): EMAG2v3. NOAA National Centers for Environmental Information, doi:10.7289/V5H70CVX. Public domain (NOAA). <https://doi.org/10.7289/V5H70CVX>
+- Land polygons and coastline (1:10m): Made with Natural Earth. Public domain. <https://www.naturalearthdata.com/>
+
+**Drifting West**
+
+- IGRF-14 geomagnetic main-field coefficients 1900-2025: IAGA Working Group V-MOD (Alken et al. 2025), via NOAA NCEI. Public domain. <https://www.ngdc.noaa.gov/IAGA/vmod/coeffs/igrf14coeffs.txt>
+- Land polygons and coastline (1:10m): Made with Natural Earth. Public domain. <https://www.naturalearthdata.com/>
+
+**Field of 2025**
+
+- IGRF-14 geomagnetic main-field coefficients 1900-2025: IAGA Working Group V-MOD (Alken et al. 2025), via NOAA NCEI. Public domain. <https://www.ngdc.noaa.gov/IAGA/vmod/coeffs/igrf14coeffs.txt>
+- Land polygons and coastline (1:10m): Made with Natural Earth. Public domain. <https://www.naturalearthdata.com/>
+
+## Orbits
+
+**Hairpins**
+
+- Osculating orbital elements of every comet (4,077) and of 1I/'Oumuamua, full precision: JPL Small-Body Database Query API, NASA/JPL Solar System Dynamics. Public NASA/JPL data; credit JPL Solar System Dynamics. <https://ssd-api.jpl.nasa.gov/doc/sbdb_query.html>
+
+**Sungrazers**
+
+- Osculating orbital elements of every comet (4,077) and of 1I/'Oumuamua, full precision: JPL Small-Body Database Query API, NASA/JPL Solar System Dynamics. Public NASA/JPL data; credit JPL Solar System Dynamics. <https://ssd-api.jpl.nasa.gov/doc/sbdb_query.html>
+
+**Petals**
+
+- Spacecraft and planet state vectors (JPL Horizons, geometric, TDB): NASA/JPL Solar System Dynamics, Horizons On-Line Ephemeris System (J. D. Giorgini). Public NASA/JPL data; credit JPL Solar System Dynamics. <https://ssd.jpl.nasa.gov/horizons/>
+- Saturn ring optical depth (Cassini RSS, Rev 7 egress, X band, 1 km): NASA/JPL Cassini Radio Science Team; PDS Ring-Moon Systems Node (CORSS_8001). NASA / PDS data (public domain). <https://pds-rings.seti.org/viewmaster/volumes/CORSS_8xxx/CORSS_8001>
+
+**Petals, Galileo**
+
+- Spacecraft and planet state vectors (JPL Horizons, geometric, TDB): NASA/JPL Solar System Dynamics, Horizons On-Line Ephemeris System (J. D. Giorgini). Public NASA/JPL data; credit JPL Solar System Dynamics. <https://ssd.jpl.nasa.gov/horizons/>
+- Saturn ring optical depth (Cassini RSS, Rev 7 egress, X band, 1 km): NASA/JPL Cassini Radio Science Team; PDS Ring-Moon Systems Node (CORSS_8001). NASA / PDS data (public domain). <https://pds-rings.seti.org/viewmaster/volumes/CORSS_8xxx/CORSS_8001>
+
+**Petals, Juno**
+
+- Spacecraft and planet state vectors (JPL Horizons, geometric, TDB): NASA/JPL Solar System Dynamics, Horizons On-Line Ephemeris System (J. D. Giorgini). Public NASA/JPL data; credit JPL Solar System Dynamics. <https://ssd.jpl.nasa.gov/horizons/>
+- Saturn ring optical depth (Cassini RSS, Rev 7 egress, X band, 1 km): NASA/JPL Cassini Radio Science Team; PDS Ring-Moon Systems Node (CORSS_8001). NASA / PDS data (public domain). <https://pds-rings.seti.org/viewmaster/volumes/CORSS_8xxx/CORSS_8001>
+
+**Greeks and Trojans**
+
+- Osculating orbital elements of the Jupiter Trojans (class TJN), the Hilda zone and the asteroids near a = 1 au, full precision, epoch 2026-06-09: JPL Small-Body Database Query API, NASA/JPL Solar System Dynamics. Public NASA/JPL data; credit JPL Solar System Dynamics. <https://ssd-api.jpl.nasa.gov/doc/sbdb_query.html>
+- Heliocentric state vectors of the planets at the integrations' start epoch (2026-06-09 TDB): JPL Horizons On-Line Ephemeris System (DE441), NASA/JPL Solar System Dynamics. Public NASA/JPL data; credit JPL Solar System Dynamics. <https://ssd.jpl.nasa.gov/horizons/>
+- N-body integration (WHFast and IAS15 integrators): REBOUND (Rein & Liu 2012; Rein & Tamayo 2015; Rein & Spiegel 2015). GPL-3.0 (code); the images are our own output. <https://rebound.readthedocs.io/>
+
+**Horseshoe**
+
+- Osculating orbital elements of the Jupiter Trojans (class TJN), the Hilda zone and the asteroids near a = 1 au, full precision, epoch 2026-06-09: JPL Small-Body Database Query API, NASA/JPL Solar System Dynamics. Public NASA/JPL data; credit JPL Solar System Dynamics. <https://ssd-api.jpl.nasa.gov/doc/sbdb_query.html>
+- Heliocentric state vectors of the planets at the integrations' start epoch (2026-06-09 TDB): JPL Horizons On-Line Ephemeris System (DE441), NASA/JPL Solar System Dynamics. Public NASA/JPL data; credit JPL Solar System Dynamics. <https://ssd.jpl.nasa.gov/horizons/>
+- N-body integration (WHFast and IAS15 integrators): REBOUND (Rein & Liu 2012; Rein & Tamayo 2015; Rein & Spiegel 2015). GPL-3.0 (code); the images are our own output. <https://rebound.readthedocs.io/>
+
+**Seven Flybys**
+
+- Spacecraft and planet state vectors (JPL Horizons, geometric, TDB): NASA/JPL Solar System Dynamics, Horizons On-Line Ephemeris System (J. D. Giorgini). Public NASA/JPL data; credit JPL Solar System Dynamics. <https://ssd.jpl.nasa.gov/horizons/>
+
+**BepiColombo**
+
+- Spacecraft and planet state vectors (JPL Horizons, geometric, TDB): NASA/JPL Solar System Dynamics, Horizons On-Line Ephemeris System (J. D. Giorgini). Public NASA/JPL data; credit JPL Solar System Dynamics. <https://ssd.jpl.nasa.gov/horizons/>
+
+**Grand Tour**
+
+- Spacecraft and planet state vectors (JPL Horizons, geometric, TDB): NASA/JPL Solar System Dynamics, Horizons On-Line Ephemeris System (J. D. Giorgini). Public NASA/JPL data; credit JPL Solar System Dynamics. <https://ssd.jpl.nasa.gov/horizons/>
+
+**Grand Tour, Edge-on**
+
+- Spacecraft and planet state vectors (JPL Horizons, geometric, TDB): NASA/JPL Solar System Dynamics, Horizons On-Line Ephemeris System (J. D. Giorgini). Public NASA/JPL data; credit JPL Solar System Dynamics. <https://ssd.jpl.nasa.gov/horizons/>
+
+## Racing
+
+**The Groove**
+
+- OpenStreetMap raceway and road geometry: © OpenStreetMap contributors. ODbL 1.0 (the image is a Produced Work). <https://www.openstreetmap.org/copyright>
+- Minimum-curvature racing line as a quadratic programme (idea only; own numpy/OSQP code): A. Heilmeier et al., Minimum curvature trajectory planning and control for an autonomous race car, Vehicle System Dynamics 58 (2020). method (our own implementation, no TUMFTM code or data). <https://doi.org/10.1080/00423114.2019.1631455>
+- OSQP quadratic-programme solver: B. Stellato et al., OSQP (2020). Apache-2.0 (software). <https://osqp.org>
+
+**The Groove, Silverstone**
+
+- OpenStreetMap raceway and road geometry: © OpenStreetMap contributors. ODbL 1.0 (the image is a Produced Work). <https://www.openstreetmap.org/copyright>
+- Minimum-curvature racing line as a quadratic programme (idea only; own numpy/OSQP code): A. Heilmeier et al., Minimum curvature trajectory planning and control for an autonomous race car, Vehicle System Dynamics 58 (2020). method (our own implementation, no TUMFTM code or data). <https://doi.org/10.1080/00423114.2019.1631455>
+- OSQP quadratic-programme solver: B. Stellato et al., OSQP (2020). Apache-2.0 (software). <https://osqp.org>
+
+**Mountain Course**
+
+- OpenStreetMap raceway and road geometry: © OpenStreetMap contributors. ODbL 1.0 (the image is a Produced Work). <https://www.openstreetmap.org/copyright>
+- Copernicus DEM GLO-30 (30 m DSM tiles): © DLR e.V. 2010-2014 and © Airbus Defence and Space GmbH 2014-2018 provided under COPERNICUS by the European Union and ESA; all rights reserved. Copernicus DEM licence (free, worldwide, attribution required). <https://registry.opendata.aws/copernicus-dem/>
+- Minimum-curvature racing line as a quadratic programme (idea only; own numpy/OSQP code): A. Heilmeier et al., Minimum curvature trajectory planning and control for an autonomous race car, Vehicle System Dynamics 58 (2020). method (our own implementation, no TUMFTM code or data). <https://doi.org/10.1080/00423114.2019.1631455>
+- OSQP quadratic-programme solver: B. Stellato et al., OSQP (2020). Apache-2.0 (software). <https://osqp.org>
+
+## Journeys
+
+**Trade Winds**
+
+- Ships' logbook positions and winds 1750-1854 (CLIWOC Database 2.1, core IMMA records): García-Herrera R, Wheeler D, Können G, Koek F, Jones PD, Prieto MR (2007) CLIWOC Database 2.1, PANGAEA; logbooks of the Nationaal Archief, the UK National Archives, the British Library, the National Maritime Museum, the Archivo General de Indias and other archives. CC BY 3.0. <https://doi.org/10.1594/PANGAEA.743343>
+- Land mask used to drop inland positions (1:10m admin-0 polygons): Made with Natural Earth. Public domain. <https://www.naturalearthdata.com/>
+
+**All Roads**
+
+- Roman roads (Itiner-e static version 2024, v1.3: 14,769 road sections, ~299,000 km): de Soto P, Pažout A, Brughmans T et al. (2025) Itiner-e: a high-resolution dataset of roads of the Roman Empire, Scientific Data, doi:10.1038/s41597-025-06140-z; data doi:10.5281/zenodo.17122148. CC BY 4.0. <https://doi.org/10.5281/zenodo.17122148>
+
+**The First Profile**
+
+- HMS Challenger stations 1872-1876: positions, dates and soundings (504 stations and sub-stations): Oceans 1876 project, challenger-data (RAMM/stations.csv), transcribed from the Report on the Scientific Results of the Voyage of H.M.S. Challenger, Summary of Results (Murray 1895). MIT (the Report itself is public domain). <https://github.com/Oceans-1876/challenger-data>
+- Seabed and land heights (ETOPO 2022, 60 arc-second surface elevation, subsets): NOAA National Centers for Environmental Information (2022) ETOPO 2022 15 Arc-Second Global Relief Model, doi:10.25921/fd45-gt74. Public domain (US Government work). <https://doi.org/10.25921/fd45-gt74>
